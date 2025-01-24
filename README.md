@@ -9,12 +9,10 @@
   <br>
 - 👨‍💻 **Studying computer science at faculty of Science Ain Shams University**
   <br>
-- 🌱 **ISTQB Foundation Level Certified Tester (CTFL-MAT)**
-  <br>
-- 💬 **Skills: Manual Testing, Test Automation(Selenium with Java, RestAssured, Postman), JMeter, API Testing, and more.**
-  <br>
-- 👨‍💻 **Bachelor of Navigation Science from the Faculty of Navigation Science and Space Technology Beni_Suef
-      University. OCT 2018 - May 2023**
+- 🏫 **As a CS student, I'm constantly Learning And Exploring new technologies to improve my skills**
+- <br>
+-⚡**Fun Fact I'm a pro WarThunder gamer**
+
 
 
 <br><br>
