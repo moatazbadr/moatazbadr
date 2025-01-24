@@ -11,7 +11,7 @@
   <br>
 - 🏫 **As a CS student, I'm constantly Learning And Exploring new technologies to improve my skills**
 - ⚡**Fun Fact I'm a pro WarThunder gamer**
-- ⚡**💬 Ask me about my experience with .Net and Angular **
+- 💬  Ask me about my experience with .Net and Angular 
 
 
 <br>
@@ -40,7 +40,7 @@
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)    [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 ---
 
-#### **Workflows and Methodologies**  
+#### **Methodology**  
 - Always search  
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
@@ -48,7 +48,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/moataz-badr-154254303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moataz" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/15f9YLGKMY/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samar saleh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/15f9YLGKMY/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s" height="30" width="40" /></a>
 <br>
 <br>
  📂  Check Out My Repositories
