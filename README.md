@@ -10,20 +10,18 @@
 - 👨‍💻 **Studying computer science at faculty of Science Ain Shams University**
   <br>
 - 🏫 **As a CS student, I'm constantly Learning And Exploring new technologies to improve my skills**
-- <br>
--⚡**Fun Fact I'm a pro WarThunder gamer**
+- ⚡**Fun Fact I'm a pro WarThunder gamer**
 
 
 
-<br><br>
+<br>
 
-
-### 🛠 &nbsp;Languages and Tools
-<br><br>
 
 #### **Programming and Scripting Languages**  
 ![Java](https://img.shields.io/badge/-Java-%23F05032?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![SQL](https://img.shields.io/badge/-SQL-%234169E1?style=flat-square&logo=mysql&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![C#](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=C#)
+
 
 ---
 
@@ -56,15 +54,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/moataz-badr-154254303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moataz" height="30" width="40" /></a>
-<a href="https://www.facebook.com/maybe.good.35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samar saleh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/15f9YLGKMY/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samar saleh" height="30" width="40" /></a>
 
-<br>
-<br>
 <br>
  📂 Check Out My Repositories
 <br>
-<br>
 Explore my repositories to see my projects, automation scripts, and more!
-<br><br><br>
+<br>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
 
