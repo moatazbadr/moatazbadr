@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to  Samar Saleh's profile 👋 </h1>
+<h1 align="center">Welcome to  Moataz badr's profile 👋 </h1>
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="center">
@@ -57,7 +57,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/samarsalh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ibrahim Elsaeed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/moataz-badr-154254303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moataz" height="30" width="40" /></a>
 <a href="https://www.facebook.com/maybe.good.35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samar saleh" height="30" width="40" /></a>
 
 <br>
