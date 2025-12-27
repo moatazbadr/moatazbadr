@@ -1,4 +1,4 @@
-<h1 align="center">HI i'm  Moataz badr👋 </h1>
+<h1 align="center">HI, I'm  Moataz badr👋 </h1>
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="center">
@@ -11,9 +11,9 @@
 RESTful APIs using Clean Architecture and CQRS. Skilled in Entity Framework Core, LINQ, and API integration.
 Focused on writing clean, maintainable, and scalable backend systems.
   <br>
-- 🏫 **Currently studying advanced topics like clean architecture and Microservices**
-- ⚡**Always willing to learn more **
-- 💬  Ask me about my experience with .Net 
+- 🏫**Currently studying advanced topics such as Clean Architecture and Microservices**
+- ⚡**Always willing to learn more**
+- 💬 **Ask me about my experience with .Net** 
 
 <br>
 
@@ -42,7 +42,10 @@ Focused on writing clean, maintainable, and scalable backend systems.
 ---
 
 #### **Methodology**  
-- Always search  
+- Problem-first approach
+- Clean Architecture & SOLID principles
+- Clear separation of concerns
+- Continuous learning and refactoring  
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
 
