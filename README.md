@@ -5,14 +5,15 @@
 <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </p>
 
-- 🏢 **Full-Stack .Net Engineer.**
+- 🏢 ** ASP.Net Developer.**
   <br>
-- 👨‍💻 **Studying computer science at faculty of Science Ain Shams University**
+- 👨‍💻 Junior Backend Developer specializing in ASP.NET Core and SQL Server, with hands-on experience building
+RESTful APIs using Clean Architecture and CQRS. Skilled in Entity Framework Core, LINQ, and API integration.
+Focused on writing clean, maintainable, and scalable backend systems.
   <br>
-- 🏫 **As a CS student, I'm constantly Learning And Exploring new technologies to improve my skills**
-- ⚡**Fun Fact I'm a pro WarThunder gamer**
-- 💬  Ask me about my experience with .Net and Angular 
-
+- 🏫 **Currently studying advanced topics like clean architecture and Microservices**
+- ⚡**Always willing to learn more **
+- 💬  Ask me about my experience with .Net 
 
 <br>
 
